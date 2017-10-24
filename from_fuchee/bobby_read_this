@@ -1,10 +1,16 @@
-Bobby I want you to start writing me about something else now, since you have mastered telling me about your day. 
+Alright bobby lets start this off ez!
 
-From now on, each day I want you to write me about a new technology subject... I will give you a topic, and I want you to tell me as much as you
-can research about it. I don't want you to copy and paste what you find on google, but just tell me a little about what
-the technology does ok? Like 4-5 sentences... you can definitely use google for research and talk to people like your teacher for clues. 
+I created a game called hangman, its inside this folder and you can see it by typing ls.
 
-Each day just do a google search and tell me about the topic I put down below...
-This will help you become a true HaCkeR!
+to play the game type: python hangman.py
 
-Topic: What is a "white hat hacker"?
+I want you to play until you win, there are clues I put in there to help you.
+
+If the game ends and you didn't win just restart it again.
+
+When you win then just type in: 
+  1. git add .
+  2. git commit -m "done"
+  3. git push origin master
+
+Good luck bobby!!
