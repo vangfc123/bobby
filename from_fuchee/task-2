@@ -1,0 +1,18 @@
+In python we can store the words or even numbers in variables like this...
+
+  firstname = "bobby"
+  lastname = "vang"
+
+then we can print out this information in a program! Like this...
+
+  print firstname
+  print lastname
+
+Your job is to write a program that can store even more information about yourself and then print all that information out.
+
+I started that program for you and even put in some code! Now its
+your turn to modify and print out a lot of information about yourself.
+
+you run a program from the command line like this: python myinfo.py
+you edit the program like when you do your daily log for me: vim myinfo.py
+

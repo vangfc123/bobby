@@ -1,0 +1,4 @@
+firstname = "bobby"
+
+print firstname
+
